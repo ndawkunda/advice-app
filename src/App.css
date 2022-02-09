@@ -33,6 +33,7 @@
     align-items: center;
     height: 582px;
     font-family: 'Spartan', sans-serif;
+    font-size: 20px;
   }
   
   .button {
@@ -44,7 +45,7 @@
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    padding: 5px;
+    padding: 3px;
     text-transform: uppercase;
     height: 200px;
     width: 210px;
